@@ -5,18 +5,18 @@ TODO APP
 
 Initialisation of client-side can be done by entering the following commands in the terminal or command prompt
 
-cd client
-npm init -y 
-npm install express cors mongoose dotenv 
-npm run
-npm start
+i)cd client
+ii)npm init -y 
+iii)npm install express cors mongoose dotenv 
+iv)npm run
+v)npm start
 
 Now to initialise the server-side, commands entered in the terminal or command prompt are
 
-cd server 
-npm init -y 
-npm install express cors mongoose dotenv 
-npm run dev
+i)cd server 
+ii)npm init -y 
+iii)npm install express cors mongoose dotenv 
+iv)npm run dev
 
 Database used : MongoDB
 
