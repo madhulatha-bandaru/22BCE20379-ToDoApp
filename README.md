@@ -1,5 +1,5 @@
 # 22BCE20379-ToDoApp
-
+The entire code is pushed into the branch named "master"
 
 TODO APP
 
