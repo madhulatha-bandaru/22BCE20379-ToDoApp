@@ -1,4 +1,4 @@
-# 22BCE20379-ToDoApp
+# ToDoApp
 The entire code is pushed into the branch named "master"
 
 TODO APP
@@ -24,5 +24,5 @@ The link to run and open the application is
 http://localhost:3000/
 
 _____________________________
-Register Number - 22BCE20379
-Name - Mohana Naga Madhu Latha Bandaru
+
+
